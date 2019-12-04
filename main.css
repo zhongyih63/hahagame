@@ -1,0 +1,33 @@
+.h3{
+    font-size: xx-large;
+    color: #ffffff;
+}
+#text1{
+    margin-top: 80px;
+    font-weight: bold;
+}
+#text2{
+    margin-top: 30px;
+}
+body { 
+    background-image: url(./back3.png); 
+    background-repeat:no-repeat; 
+    background-size: cover;
+    background-color: rgb(28, 24, 32);
+} 
+.content {
+    width: 280px;
+    margin: 0 auto;
+    position: relative;
+}
+.foot {
+    width: 280px;
+    margin: 0 auto;
+    position: relative;
+}
+.codebox img {
+    margin-top: 40px;
+    width: 280px;
+    height: auto;
+    cursor: pointer;
+}
